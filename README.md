@@ -20,4 +20,6 @@ python3 main.py
 ```
 
 # Как запустить тесты
-1. pytest
+```
+ pytest
+```
